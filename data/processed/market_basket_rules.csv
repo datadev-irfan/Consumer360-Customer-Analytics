@@ -1,0 +1,18 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'Diet Coke - 12 oz cans', 'Muscle Milk Protein Shake Van. 11oz', 'Sprite - 12 oz cans', 'Coffee-Mate Original Flavor Cold'})",frozenset({'Pepsi - 12 oz cans'}),0.037971929061037975,0.6322463768115942,1.1179254423384692
+"frozenset({'M&M Peanut Butter 1.6 oz', 'Coke Classic 12 oz cans', 'Foam Coffee Cups - 20 ounce'})",frozenset({'Muscle Milk Protein Shake Van. 11oz'}),0.039712762485039715,0.6207482993197279,1.1140983438874474
+"frozenset({'Njoy Sugar Canister 22 oz', 'Pepsi - 12 oz cans', 'M&M Peanut Butter 1.6 oz'})",frozenset({'Diet Coke - 12 oz cans'}),0.04178000217604178,0.617363344051447,1.1119315099307954
+"frozenset({'Sprite - 12 oz cans', 'Diet Pepsi - 12 oz cans', 'Coffee-Mate Original Flavor Cold'})",frozenset({'Pepsi - 12 oz cans'}),0.04493526275704494,0.6286149162861493,1.1115043662150823
+"frozenset({'Nat.Valley PeanutButter Protein Bars', 'Muscle Milk Protein Shake Van. 11oz', 'Napkins Square Lunch'})",frozenset({'Coke Classic 12 oz cans'}),0.038515939506038516,0.6210526315789474,1.1107403652154322
+"frozenset({'Muscle Milk Protein Shake Van. 11oz', 'Napkins Square Lunch', 'Cascade Gel Packs Dishwasher'})",frozenset({'Coke Classic 12 oz cans'}),0.04047437710804047,0.6210350584307178,1.1107089359869096
+"frozenset({'Njoy Sugar Canister 22 oz', 'Pepsi - 12 oz cans', 'A&W Root Beer - 12 oz cans'})",frozenset({'Diet Coke - 12 oz cans'}),0.040256772930040256,0.6166666666666666,1.1106767261088246
+"frozenset({'Napkins Square Lunch', 'Chinet Comfort Hot Cups with Lids 16oz', 'Coke Classic 12 oz cans'})",frozenset({'Pepsi - 12 oz cans'}),0.04156239799804156,0.6272577996715927,1.1091047396655653
+"frozenset({'Diet Coke - 12 oz cans', '100% Juice Box Variety 6.75 oz ', 'Coffee-Mate Original Flavor Cold'})",frozenset({'Pepsi - 12 oz cans'}),0.04439125231204439,0.6267281105990784,1.1081681540046422
+"frozenset({'Diet Coke - 12 oz cans', 'M&M Peanut Butter 1.6 oz', 'Clear Plastic Cups 9oz'})",frozenset({'Pepsi - 12 oz cans'}),0.04069198128604069,0.626465661641541,1.107704096988727
+"frozenset({'Muscle Milk Protein Shake Van. 11oz', 'Sprite - 12 oz cans', 'Diet Pepsi - 12 oz cans', 'Coke Classic 12 oz cans'})",frozenset({'Pepsi - 12 oz cans'}),0.037971929061037975,0.6254480286738352,1.1059047386574103
+"frozenset({'Muscle Milk Protein Shake Van. 11oz', 'K Cups Daily Chef Columbian Supremo', 'Cascade Gel Packs Dishwasher'})",frozenset({'Diet Coke - 12 oz cans'}),0.04058317919704058,0.613486842105263,1.1049495523788895
+"frozenset({'Njoy Sugar Canister 22 oz', 'Muscle Milk Protein Shake Van. 11oz', 'Clear Plastic Cups 9oz'})",frozenset({'Pepsi - 12 oz cans'}),0.03905994995103906,0.6243478260869565,1.103959382371146
+"frozenset({'Diet Coke - 12 oz cans', 'Sprite - 12 oz cans', 'Coke Classic 12 oz cans', 'Coffee-Mate Original Flavor Cold'})",frozenset({'Pepsi - 12 oz cans'}),0.03742791861603743,0.6243194192377495,1.1039091539465478
+"frozenset({'Diet Coke - 12 oz cans', 'Muscle Milk Protein Shake Van. 11oz', 'Sprite - 12 oz cans', 'A&W Root Beer - 12 oz cans'})",frozenset({'Pepsi - 12 oz cans'}),0.03938635621803939,0.6230636833046472,1.1016887866973861
+"frozenset({'M&M Peanut Butter 1.6 oz', 'Pepsi - 12 oz cans', 'Sprite - 12 oz cans', 'Coke Classic 12 oz cans'})",frozenset({'Muscle Milk Protein Shake Van. 11oz'}),0.03905994995103906,0.6136752136752136,1.101403805680314
+"frozenset({'Topo Chico 20oz plastic', 'Sprite - 12 oz cans', '100% Juice Box Variety 6.75 oz '})",frozenset({'Coke Classic 12 oz cans'}),0.04156239799804156,0.6151368760064412,1.1001601532156453
